@@ -28,7 +28,7 @@ Models are evaluated using the same parameter set corresponding to a generic pat
   * notebook containing model ODEs, R0 expressions, numerical solutions,  plots
 
 # contact
-David Smith 
-Institut Pasteur / Inserm / UVSQ
-david.smith@pasteur.fr 
+David Smith \
+Institut Pasteur / Inserm / UVSQ \
+david.smith@pasteur.fr \
 davidrobertmundysmith@gmail.com
