@@ -21,7 +21,9 @@ Models are evaluated using the same parameter set corresponding to a generic pat
 * functions.R
   * functions returning epidemiological outcomes at population dynamic equilibrium: prevalence, incidence, resistance rate
 * solve.R
-  * execute analyses and render figures
+  * execute analyses
+* figures.R
+  * render figures 
 
 # repository files (Mathematica)
 * microbiome_ecology.nb
