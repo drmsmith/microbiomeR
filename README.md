@@ -25,7 +25,7 @@ Models are evaluated using the same parameter set corresponding to a generic pat
 
 # repository files (Mathematica)
 * microbiome_ecology.nb
-  * notebook containing model ODEs, R0 expressions, numerical solutions,  plots
+  * notebook containing model ODEs, R0 expressions, numerical solutions,  figures
 
 # contact
 David Smith \
