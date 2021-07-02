@@ -12,6 +12,8 @@ We present a suite of ODE models describing bacterial colonization dynamics in t
 Models are evaluated using the same parameter set corresponding to a generic pathogen (C^R). ODEs are integrated numerically. Epidemiological outcomes at population dynamic equilibrium are evaluated using univariate and bivariate analysis. 
 
 # repository files (R)
+* microbiomeR.Rproj
+  * associated R project
 * ODEs.R
   * ODEs for each model
 * parameters.R
