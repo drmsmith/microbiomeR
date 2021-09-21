@@ -1,5 +1,5 @@
 # microbiomeR
-Theoretical models for antibiotic resistance epidemiology. R code and a Mathematica notebook to support Smith et al., (2021). Microbiome-pathogen interactions drive epidemiological dynamics of antibiotic resistance: modelling insights for infection control
+Theoretical models for antibiotic resistance epidemiology. R code and a Mathematica notebook to support Smith et al. (2021), Microbiome-pathogen interactions drive epidemiological dynamics of antibiotic resistance: a modeling study applied to nosocomial pathogen control.
 
 # about
 We present a suite of ODE models describing bacterial colonization dynamics in the healthcare setting. Each model accounts for different within-host interactions:
@@ -36,3 +36,6 @@ David Smith \
 Institut Pasteur / Inserm / UVSQ \
 david.smith@pasteur.fr \
 davidrobertmundysmith@gmail.com
+
+# citation
+Smith DRM, Temime L, Opatowski L. Microbiome-pathogen interactions drive epidemiological dynamics of antibiotic resistance: a modelling study applied to nosocomial pathogen control. Elife. 2021 Sep 14;10:e68764. doi: 10.7554/eLife.68764. PMID: 34517942.
