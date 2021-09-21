@@ -109,7 +109,7 @@ params_perfectR_phi_med['epsilon'] <- 0; params_perfectR_phi_med['eta'] <- 0 ; p
 params_perfectR_phi_high['epsilon'] <- 0; params_perfectR_phi_high['eta'] <- 0 ; params_perfectR_phi_high['phi'] <- 8
 
 
-### FIGURE 2
+### FIGURE 3
 params_lowInt_lowR = params_default; params_lowInt_medR = params_default; params_lowInt_highR = params_default; 
 params_medInt_lowR = params_default; params_medInt_medR = params_default; params_medInt_highR = params_default; 
 params_highInt_lowR = params_default; params_highInt_medR = params_default; params_highInt_highR = params_default; 
@@ -124,7 +124,7 @@ params_highInt_lowR['epsilon'] = 0.8; params_highInt_lowR['eta'] = 0.8; params_h
 params_highInt_medR['epsilon'] = 0.8; params_highInt_medR['eta'] = 0.8; params_highInt_medR['phi'] = 8; params_highInt_medR['r_R'] = 0.5
 params_highInt_highR['epsilon'] = 0.8; params_highInt_highR['eta'] = 0.8; params_highInt_highR['phi'] = 8; params_highInt_highR['r_R'] = 0.8
 
-### FIGURE 3
+### FIGURE 4
 # Default pars
 params_noInt_noHGT = params_default; params_noInt_lowHGT = params_default; params_noInt_highHGT = params_default; 
 params_withInt_noHGT = params_default; params_withInt_lowHGT = params_default; params_withInt_highHGT = params_default
@@ -159,9 +159,9 @@ params_withInt_lowHGT_lowR['r_R'] = 0.2;
 params_withInt_highHGT_lowR['r_R'] = 0.2
 
 
-### HGT supplementary Figure S6
+### HGT supplementary Figure S7
 # a
-params_HGTsupp_noHGT = params_default
+params_HGTsupp_noHGT = params_default; params_HGTsupp_noHGT['chi_e'] = 0; params_HGTsupp_noHGT['chi_d'] = 0; 
 params_HGTsupp_lowHGT = params_default; params_HGTsupp_lowHGT['chi_e'] = 0.01; params_HGTsupp_lowHGT['chi_d'] = 0.1; 
 params_HGTsupp_highHGT = params_default; params_HGTsupp_highHGT['chi_e'] = 0.1; params_HGTsupp_highHGT['chi_d'] = 1
 # b
